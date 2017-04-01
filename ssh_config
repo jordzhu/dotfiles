@@ -1,0 +1,4 @@
+Host jz
+  Hostname login.engin.umich.edu
+  User jordzhu
+  Compression yes
